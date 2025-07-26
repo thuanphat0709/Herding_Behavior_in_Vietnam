@@ -1,6 +1,6 @@
 # Asymmetric Information and Herding Behavior: an Empirical Analysis from Vietnam
 
-This paper presents the research conducted by a group of four sophomore undergraduates from the Foreign Trade University, HCMC Campus. 
+This paper presents a study on herding behavior in the Vietnam Stock Market, conducted by a group of four sophomore undergraduates from the Foreign Trade University, HCMC Campus.
 
 ## Authors
 - Chau Thuan Phat - Foreign Trade University, HCMC Campus (https://www.linkedin.com/in/chau-thuan-phat-b60402154/)
